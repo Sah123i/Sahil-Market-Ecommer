@@ -1,0 +1,25 @@
+.card1{
+    text-align:center;
+    background-color: grey;
+    padding:5px;
+    border-radius: 20px;
+}
+
+/* .container{
+    background-image: url("https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?t=st=1721233726~exp=1721237326~hmac=61e2981dba8e9a7119bc405efe77a8c8c07d59fb92efcd06725261ddc4907d94&w=740");
+    background-size: cover;
+    height: 150vh;
+    border-radius:30px;
+} */
+.main-heading{
+    color:crimson;
+    font-size: 50px;
+    font-family:'Lobster';
+    font-style: normal; 
+    text-decoration: underline;
+}
+
+.paragraph{
+    font-size: large;
+    font-weight: bold;
+}
